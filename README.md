@@ -2,6 +2,22 @@
 
 A repository for various useful tools for doing data analysis pertaining to PL and FPL.
 
+## Goals
+
+I. Data access for PL data
+ * API access
+ * xG/xA data??
+ * ???
+
+II. Useful analyses for decisionmaking when it comes to FPL team composition
+ * Use of basic stats (Fixture Difficulty Rating, Home/Away matches, Player/Team form) to predict promising upcoming choices
+ * Incorporate xG/xA data. Create 'enhanced' stats (xP)
+ * ???
+
+III. Ambition: play with OpenCV to automatically track player positions from audience view of game.
+ * Crapshoot in terms of quality, and audience view has limited FOV 
+ * Still could be interesteding PoC
+
 ## Code
 To be added!
 
